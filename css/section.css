@@ -28,26 +28,26 @@
     background-repeat: no-repeat;
 }
 .img1{
-background-image: url(box2_image.jpg);
+background-image: url(pic/box2_image.jpg);
 }
 .img2 {
-    background-image: url(box1_image.jpg);
+    background-image: url(pic/box1_image.jpg);
 }
 .img3 {
-    background-image: url(box3_image.jpg);
+    background-image: url(pic/box3_image.jpg);
 }
 .img4 {
-    background-image: url(box4_image.jpg);
+    background-image: url(pic/box4_image.jpg);
 }
 .img5 {
-    background-image: url(box5_image.jpg);
+    background-image: url(pic/box5_image.jpg);
 }
 .img6 {
-    background-image: url(box6_image.jpg);
+    background-image: url(pic/box6_image.jpg);
 }
 .img7 {
-    background-image: url(box7_image.jpg);
+    background-image: url(pic/box7_image.jpg);
 }
 .img8 {
-    background-image: url(box8_image.jpg);
+    background-image: url(pic/box8_image.jpg);
 }

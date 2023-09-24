@@ -12,12 +12,10 @@
     align-items: center;
     position: fixed;
     z-index: 4;
-    
-
 }
 
 .nav-box1 {
-    background-image: url(amazon_logo.png);
+    background-image: url(pic/amazon_logo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
